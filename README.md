@@ -1,2 +1,2 @@
-# shiny-umbrella
+# Face Recognition
 Face Recognition
